@@ -1,0 +1,156 @@
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  font-family: sans-serif;
+  padding-top: 100px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 1.2em;
+  color: #40514e;
+  
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-family: 'Parisienne', cursive;
+  color: #3e9c87;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-bottom: 0.5px;
+  margin-top: 0.5cm;
+  color: #1e836c;
+  font-size: 3.0em;
+}
+
+h3 {
+  font-family: 'Libre Franklin', sans-serif;
+  margin-bottom: 0.3cm;
+  margin-top: 0.6cm;
+  color: #3e9c87;
+  font-size: 1.5em;
+}
+
+.middle-container {
+  margin: 50px 0;
+}
+
+.profile {
+  margin-bottom: 25px;
+}
+
+.left-cloud {
+  position: absolute;
+  top: 14.75rem;
+  left: 18rem;
+}
+
+.right-cloud {
+  right: 20rem;
+  top: 8.75rem;
+  position: absolute;
+}
+
+.hi {
+  width: 150px;
+}
+
+.hi1 {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 17px;
+}
+
+.hi2 {
+  height: 150px;
+  float: right;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.2;
+}
+
+.skill-row1 {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.2;
+}
+
+hr {
+  border-style: none;
+  border-top: 10px dotted #dbdbdb;
+  padding-top: 15px;
+  width: 5%;
+}
+
+.p1 {
+  margin: auto;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+p {
+  margin-top: 0.3cm;
+  line-height: 2;
+}
+
+.conme {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #c5ded7;
+  padding: 50px 0 20px;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #45b29a;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: 'Montserrat', sans-serif;
+  color: #545454;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.con1 {
+  background-color: #45b29a;
+  padding: 10px;
+  color: #1b7f69;
+  margin: 0;
+  border: 10px;
+  border-radius: 5%;
+}
+
+.con1:hover {
+  margin: 0;
+  color: #545454;
+  text-decoration: none;
+}
